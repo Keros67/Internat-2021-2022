@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+* {
+    font-family: 'Pangolin', cursive;
+    text-align: center;
+}
+
+.card{
+    justify-content: space-around;
+    margin: 10px;
+    margin-left: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+#exampleModal_1 {
+    color: darkblue;
+    text-align: center;
+}
+
+#exampleModal_2 {
+    color: darkred;
+    text-align: center;
+}
+
+#exampleModal_3 {
+    color: darkgreen;
+    text-align: center;
+}
+
+#exampleModal_4 {
+    color: darkorange;
+    text-align: center;
+}
+
+#exampleModal_5 {
+    color: indigo;
+    text-align: center;
+}
+
+#exampleModal_6 {
+    color: lightgreen;
+    text-align: center;
+}
+
+#exampleModal_7 {
+    color: lightcoral;
+    text-align: center;
+}
+
+#exampleModal_8 {
+    color: royalblue;
+    text-align: center;
+}
+
+#exampleModal_9 {
+    color: greenyellow;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: 550px;
+}
